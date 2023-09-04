@@ -1,5 +1,7 @@
 .top {
-    margin-top: 80px;
+    padding-top: 80px;
+    background-image: url(https://cdn.wallpapersafari.com/21/61/zkNgu4.jpg);
+    background-size: cover;
 }
 
 .copyright {
@@ -54,6 +56,6 @@
     width: auto;
     height: 700px;
     margin-top: 50px;
-    background-color: aqua;
+    background-image: url(https://wallpapers.com/images/featured/grey-aesthetic-vmo28eqtpjjhfitj.jpg);
     background-size: cover;
 }
